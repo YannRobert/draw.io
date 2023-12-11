@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T13:38:43.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3gtjnx8sVPdIIq2cpUay" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T13:40:17.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="6BDS1vSD8npa6Fpe-DAt" version="22.1.7" type="github">
   <diagram name="Page-1" id="e3a06f82-3646-2815-327d-82caf3d4e204">
-    <mxGraphModel dx="3585" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="1436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -188,14 +188,10 @@
         <mxCell id="otNfWIO8C421rpofp8Mj-62" value="Plain Component&lt;br&gt;(Spring)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2500" y="285.75" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="otNfWIO8C421rpofp8Mj-16" value="s" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="otNfWIO8C421rpofp8Mj-5" target="otNfWIO8C421rpofp8Mj-17">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1540" y="540" as="sourcePoint" />
-            <mxPoint x="1910" y="580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="otNfWIO8C421rpofp8Mj-102" value="ZOOM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="otNfWIO8C421rpofp8Mj-16">
-          <mxGeometry x="0.1798" y="-2" relative="1" as="geometry">
+        <mxCell id="otNfWIO8C421rpofp8Mj-16" value="ZOOM" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry x="-0.0016" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1420" y="602.66" as="sourcePoint" />
+            <mxPoint x="1630" y="602.66" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
